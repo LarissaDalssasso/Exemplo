@@ -18,6 +18,7 @@ Lista de tarefas
 - [x] tarefa 2
 
 Imagem
+br
 ![Logo do IFC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQjx6NAcQZr7iLuE-QysKxy6aq2VedXRtmnS1WtrYbw&s)
 
 Código (entre crases)
