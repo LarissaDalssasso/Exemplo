@@ -26,4 +26,8 @@ Código (entre crases)
 
 Link
 [Site do IFC](https://ifc.edu.br/)
-%oii%
+´´´oii´´´
+Tabela 
+Número|Nome|Data de Nascimento
+-|-|-
+1|Larissa|20/06/2006
